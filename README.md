@@ -19,39 +19,20 @@ brew install android-platform-tools
 ### **Windows**  
 Double-click on *"Install Android Debug Bridge.bat"*  
   
+
+
   
 
+## Install Python 3 and *Tkinter* for Python 3
+- Install Python3 (www.python.org)
+- Set environment variables (if needed - optional)
+- Install Python3 PIP and tkinter
 
 ### **Linux - Ubuntu/Debian**  
 ``` 
-sudo apt install android-tools-adb android-tools-fastboot
-```
-   
-   
-### **Linux - Fedora/OpenSUSE**  
-``` 
-sudo yum install android-tools
+bash install-tkinter-ubuntu.sh
 ```
 
-  
-
-## Install *Tkinter* for Python 3
-- Install Python3 (www.python.org)
-- Set environment variables (if needed - optional)
-  
-
-**Linux - Ubuntu/Debian**
-```
-sudo apt-get install python3
-sudo apt-get install python3-pip
-sudo apt-get install python-tk
-```
-  
-
-**Linux - Fedora/OpenSUSE**
-```
-sudo yum install python3-tkinter
-```
   
 
 ## Run Snowpois0n to Jailbreak
